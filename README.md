@@ -1,4 +1,3 @@
-# Pneumonia_Image_Classification_CNN
 
 # Business Understanding:
 
